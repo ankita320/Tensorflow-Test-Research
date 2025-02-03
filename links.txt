@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=dYhrCUFN0eM
+https://www.youtube.com/playlist?list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
+theory of neural networks
+installing/acc using/coding - https://www.tensorflow.org/guide
+https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf
+https://www.quora.com/What-are-some-good-resources-to-learn-TensorFlow
