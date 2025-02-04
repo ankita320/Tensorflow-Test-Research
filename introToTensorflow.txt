@@ -1,1 +1,15 @@
+**Tensorflow** 
+- open source machine learning framework -- building machine learning/deep learning
+- can be used with multiple languages - will be using in python
+- train and executes models - can develop neural network iamge recognition, natural language processing, digit classification, etc --> after models are trained, they are tried and sued to estimate outputs, and remodel to get better outputs
 
+How it works:
+- use TF to create structures of dataflow graphs with nodes in well definited order --> used for different algorithms and computation methods 
+- dataflow graphs show us how data is outputed
+- Data feeded : multidimensional arrays --> tensors (contain large amounts of data about any particular topic) --> each connection between nodes is a tensor
+
+Steps/Architecture:
+1. Preprocessing: preparing data to give it to the model --> includes data cleaning, scaling, standardizng, etc.
+2. Model Building: build model using data, algorithms, suited linear regression functions.
+3. Model Training: Train data and run to test how accurate output is
+4. Model Estimating/revising: revise model to return more accurate outputs every time.
