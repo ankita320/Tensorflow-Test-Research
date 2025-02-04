@@ -13,3 +13,9 @@ Steps/Architecture:
 2. Model Building: build model using data, algorithms, suited linear regression functions.
 3. Model Training: Train data and run to test how accurate output is
 4. Model Estimating/revising: revise model to return more accurate outputs every time.
+
+Code:
+Tensors:
+- Creating Tensors
+- Rank/Degree of Tensors
+- Shape of Tensors
